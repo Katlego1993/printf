@@ -4,6 +4,7 @@
 
 /**
  * main - Entry point
+ * group project for kat & lloyd
  *
  * Return: Always 0
  */

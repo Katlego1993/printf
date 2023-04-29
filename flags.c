@@ -2,6 +2,7 @@
 
 /**
  * get_flags - Calculate active flags
+ * kat & lloyd project
  * @format: formatted string in which to print the arguments
  * @i: take a parameter
  * Return: Flags:

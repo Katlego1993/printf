@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * is_printable - Evaluate if achar is printable
+ * kat & lloyd project
  * @c: Char to be evaluated
  *
  * Return: 1 if c is printable, 0 otherwise
